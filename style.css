@@ -1,0 +1,19 @@
+h2, h3, h4, h5, h6{
+  background-color: #F5DEB3;
+  color: #2F4F4F;
+  font-family: cursive;
+}
+hr{
+  color: #2F4F4F;
+}
+body{
+  background-color: cornsilk;
+}
+p{
+  background-color: powderblue;
+  color: #26a193;
+  font-family: cursive;
+  border:7px;
+  border-radius:10%;
+  border-style: solid;
+}
